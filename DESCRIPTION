@@ -25,7 +25,7 @@ Remotes:
 	BenaroyaResearch/countSubsetNorm,
 	BenaroyaResearch/miscHelpers
 Depends:
-    R (>= 3.2.2)
+    R 
 Suggests:
     stephenturner/annotables
 License: GPL-3
